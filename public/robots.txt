@@ -1,0 +1,73 @@
+# robots.txt for convertanything.com - Production Ready
+# https://www.robotstxt.org/robotstxt.html
+
+# Global rules for all bots
+User-agent: *
+Allow: /
+Allow: /assets/
+Allow: /*.css$
+Allow: /*.js$
+Allow: /sitemap.xml
+
+# Disallow sensitive areas
+Disallow: /admin/
+Disallow: /auth/
+Disallow: /user-dashboard-personalized-conversion-management/
+Disallow: /admin-control-panel-platform-management-dashboard/
+Disallow: /ad-sense-optimization-content-guidelines-dashboard/
+Disallow: /api/
+Disallow: /private/
+Disallow: /*.json$
+Disallow: /*?*
+Disallow: /search?*
+Disallow: /*utm_*
+Disallow: /*ref=*
+Disallow: /*source=*
+
+# Allow specific important bots with optimized crawling
+User-agent: Googlebot
+Allow: /
+Allow: /assets/
+Disallow: /admin/
+Disallow: /auth/
+Disallow: /api/
+Crawl-delay: 1
+
+User-agent: Bingbot
+Allow: /
+Allow: /assets/
+Disallow: /admin/
+Disallow: /auth/
+Disallow: /api/
+Crawl-delay: 1
+
+User-agent: facebookexternalhit
+Allow: /
+Disallow: /admin/
+Disallow: /auth/
+
+User-agent: Twitterbot
+Allow: /
+Disallow: /admin/
+Disallow: /auth/
+
+User-agent: LinkedInBot
+Allow: /
+Disallow: /admin/
+Disallow: /auth/
+
+# Block harmful bots
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+# SEO optimization crawl delays
+Crawl-delay: 1
+
+# Sitemap location - production ready
+Sitemap: https://convertanything.com/sitemap.xml

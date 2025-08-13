@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+  
+  <!-- Homepage - Highest Priority -->
+  <url>
+    <loc>https://convertanything.com</loc>
+    <lastmod>2025-08-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://convertanything.com/assets/images/og-image.jpg</image:loc>
+      <image:caption>Universal Converter Hub - Professional Unit Conversion Tools</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Main Converter Experience -->
+  <url>
+    <loc>https://convertanything.com/individual-converter-focused-conversion-experience</loc>
+    <lastmod>2025-08-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Search and Discovery -->
+  <url>
+    <loc>https://convertanything.com/search-results-hub-ai-powered-conversion-discovery</loc>
+    <lastmod>2025-08-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Knowledge Center -->
+  <url>
+    <loc>https://convertanything.com/knowledge-center-educational-resources-hub</loc>
+    <lastmod>2025-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Category Collections -->
+  <url>
+    <loc>https://convertanything.com/category-landing-comprehensive-converter-collections</loc>
+    <lastmod>2025-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Company Information -->
+  <url>
+    <loc>https://convertanything.com/about-us-company-information</loc>
+    <lastmod>2025-08-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Support Center -->
+  <url>
+    <loc>https://convertanything.com/contact-support-center</loc>
+    <lastmod>2025-08-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Privacy Policy -->
+  <url>
+    <loc>https://convertanything.com/privacy-policy-legal-compliance-center</loc>
+    <lastmod>2025-08-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Additional converter categories - can be dynamically generated -->
+  <url>
+    <loc>https://convertanything.com/length-converter</loc>
+    <lastmod>2025-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://convertanything.com/weight-converter</loc>
+    <lastmod>2025-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://convertanything.com/temperature-converter</loc>
+    <lastmod>2025-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://convertanything.com/volume-converter</loc>
+    <lastmod>2025-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://convertanything.com/area-converter</loc>
+    <lastmod>2025-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://convertanything.com/speed-converter</loc>
+    <lastmod>2025-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+</urlset>

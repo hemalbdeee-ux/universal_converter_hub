@@ -1,0 +1,31 @@
+{
+  "short_name": "ConvertAnything",
+  "name": "ConvertAnything.com - Universal Converter Hub",
+  "description": "Professional-grade unit conversion tools for all your measurement needs",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/assets/images/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/assets/images/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#000000",
+  "categories": ["utilities", "education", "tools"],
+  "lang": "en-US",
+  "dir": "ltr",
+  "orientation": "any"
+}
